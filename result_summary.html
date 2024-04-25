@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+th:hover {
+    background-color: #4CAF50;
+}
+
+.caption {
+    font-style: italic;
+    color: #666;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th></th>
+    <th>coef</th>
+    <th>std err</th>
+    <th>t</th>
+    <th>P>|t|</th>
+    <th>[0.025</th>
+    <th>0.975]</th>
+  </tr>
+  <tr>
+    <th>const</th>
+    <td>55.3674</td>
+    <td>0.693</td>
+    <td>79.845</td>
+    <td>0.000</td>
+    <td>54.008</td>
+    <td>56.727</td>
+  </tr>
+  <tr>
+    <th>SDP</th>
+    <td>3.16e-05</td>
+    <td>2.46e-06</td>
+    <td>12.845</td>
+    <td>0.000</td>
+    <td>2.68e-05</td>
+    <td>3.64e-05</td>
+  </tr>
+</table>
+
+<p class="caption">Hover over the rows and columns for highlighting!</p>
+
+</body>
+</html>
