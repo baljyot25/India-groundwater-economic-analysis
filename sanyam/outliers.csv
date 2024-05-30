@@ -1,0 +1,92 @@
+X,country,state,district,year,dyid,Serial.No.,District,calcium,SDP,Gini
+2728,India,Rajasthan,Dhaulpur,2000,Dhaulpur2000,483,Dhaulpur,220,89372,0.25
+2729,India,Rajasthan,Dhaulpur,2001,Dhaulpur2001,483,Dhaulpur,184,99549,0.25
+2734,India,Rajasthan,Dhaulpur,2006,Dhaulpur2006,483,Dhaulpur,212,134350,0.25
+2738,India,Rajasthan,Dhaulpur,2010,Dhaulpur2010,483,Dhaulpur,212,185366,0.25
+2739,India,Rajasthan,Dhaulpur,2011,Dhaulpur2011,483,Dhaulpur,296,202749,0.25
+2740,India,Rajasthan,Dhaulpur,2012,Dhaulpur2012,483,Dhaulpur,260,210171,0.25
+2741,India,Rajasthan,Dhaulpur,2013,Dhaulpur2013,483,Dhaulpur,288,222730,0.25
+2743,India,Rajasthan,Dhaulpur,2015,Dhaulpur2015,483,Dhaulpur,265,257415,0.25
+2744,India,Rajasthan,Dhaulpur,2016,Dhaulpur2016,483,Dhaulpur,212,271636,0.25
+3260,India,Haryana,Faridabad,2008,Faridabad2008,161,Faridabad,185,121588,0.42
+3317,India,Haryana,Fatehabad,2008,Fatehabad2008,167,Fatehabad,200.83333,121588,0.3
+3869,India,Haryana,Gurgaon,2009,Gurgaon2009,149,Gurgaon,194.25,136780,0.42
+3964,India,Rajasthan,Hanumangarh,2009,Hanumangarh2009,459,Hanumangarh,205.64706,161159,0.24
+4089,India,Jharkhand,Hazaribagh,2001,Hazaribagh2001,205,Hazaribagh,276,40994,0.24
+4266,India,Madhya Pradesh,Indore,2007,Indore2007,272,Indore,414,119958,0.3
+4462,India,Maharashtra,Jalna,2013,Jalna2013,330,Jalna,227.25,782973,0.18
+4485,India,Rajasthan,Jalore,2017,Jalore2017,468,Jalor,353.33334,285979,0.25
+4588,India,Telangana,Jangoan,2006,Jangoan2006,530,Warangal,211.39999,102977,0.23
+4593,India,Telangana,Jangoan,2011,Jangoan2011,530,Warangal,182,160602,0.23
+4738,India,Rajasthan,Jhalawar,2004,Jhalawar2004,479,Jhalawar,199.125,112636,0.2
+4896,India,Telangana,Jogulamba Gadwal,2010,Jogulamba Gadwal2010,526,Mahbubnagar,222,152123,0.25
+4897,India,Telangana,Jogulamba Gadwal,2011,Jogulamba Gadwal2011,526,Mahbubnagar,272,160602,0.25
+4901,India,Telangana,Jogulamba Gadwal,2015,Jogulamba Gadwal2015,526,Mahbubnagar,187,205923,0.25
+4903,India,Telangana,Jogulamba Gadwal,2017,Jogulamba Gadwal2017,526,Mahbubnagar,268,246058,0.25
+4904,India,Telangana,Jogulamba Gadwal,2018,Jogulamba Gadwal2018,526,Mahbubnagar,206,268926,0.25
+4924,India,Gujarat,Junagadh,2000,Junagadh2000,123,Junagadh,350.69049,118544,0.23
+4926,India,Gujarat,Junagadh,2002,Junagadh2002,123,Junagadh,307.85184,139353,0.23
+4929,India,Gujarat,Junagadh,2005,Junagadh2005,123,Junagadh,410.94736,197270,0.23
+4930,India,Gujarat,Junagadh,2006,Junagadh2006,123,Junagadh,356.75,213954,0.23
+4931,India,Gujarat,Junagadh,2007,Junagadh2007,123,Junagadh,192.22223,239253,0.23
+4932,India,Gujarat,Junagadh,2008,Junagadh2008,123,Junagadh,268.21054,249480,0.23
+4933,India,Gujarat,Junagadh,2009,Junagadh2009,123,Junagadh,209.28206,284732,0.23
+4934,India,Gujarat,Junagadh,2010,Junagadh2010,123,Junagadh,251.52942,315892,0.23
+4936,India,Gujarat,Junagadh,2012,Junagadh2012,123,Junagadh,262.47058,377257,0.23
+4937,India,Gujarat,Junagadh,2013,Junagadh2013,123,Junagadh,225.375,405603,0.23
+4938,India,Gujarat,Junagadh,2014,Junagadh2014,123,Junagadh,215.04762,446157,0.23
+4939,India,Gujarat,Junagadh,2015,Junagadh2015,123,Junagadh,207.71428,489877,0.23
+4940,India,Gujarat,Junagadh,2016,Junagadh2016,123,Junagadh,209.20454,533602,0.23
+5061,India,Telangana,Kamareddy,2004,Kamareddy2004,529,Nizamabad,349.33334,79916,0.27
+5066,India,Telangana,Kamareddy,2009,Kamareddy2009,529,Nizamabad,251,129267,0.27
+5639,India,Madhya Pradesh,Khargone,2012,Khargone2012,307,West Nimar,212,184305,0.24
+6480,India,Telangana,Mahabubnagar,2017,Mahabubnagar2017,526,Mahbubnagar,260,246058,0.25
+6481,India,Telangana,Mahabubnagar,2018,Mahabubnagar2018,526,Mahbubnagar,212.5,268926,0.25
+7205,India,West Bengal,Nadia,2001,Nadia2001,638,Nadia,186.07692,162624,0.25
+7267,India,Telangana,Nagarkurnool,2006,Nagarkurnool2006,526,Mahbubnagar,200,102977,0.25
+7457,India,Telangana,Narayanpet,2006,Narayanpet2006,526,Mahbubnagar,231,102977,0.25
+7648,India,Delhi,New Delhi,2007,New Delhi2007,394,New Delhi,493,130683,0.34
+7771,India,Delhi,North,2002,North2002,392,North,240,81050,0.34
+7772,India,Delhi,North,2003,North2003,392,North,190.60001,85467,0.34
+7774,India,Delhi,North,2005,North2005,392,North,331.5,104473,0.34
+7801,India,Haryana,Nuh,2002,Nuh2002,154,Mewat,193.07692,72268,0.26
+7807,India,Haryana,Nuh,2008,Nuh2008,154,Mewat,177.89999,121588,0.26
+8105,India,Gujarat,Patan,2002,Patan2002,145,Patan,184,139353,0.33
+8109,India,Gujarat,Patan,2006,Patan2006,145,Patan,358,213954,0.33
+8213,India,Telangana,Peddapalli,2015,Peddapalli2015,527,Karimnagar,190,205923,0.2
+8217,India,Tamilnadu,Perambalur,2000,Perambalur2000,503,Perambalur,188.2,165323,0.27
+8219,India,Tamilnadu,Perambalur,2002,Perambalur2002,503,Perambalur,180.8,162931,0.27
+8228,India,Tamilnadu,Perambalur,2011,Perambalur2011,503,Perambalur,236,386508,0.27
+8274,India,Gujarat,Porbandar,2000,Porbandar2000,133,Porbandar,186.16667,118544,0.21
+8276,India,Gujarat,Porbandar,2002,Porbandar2002,133,Porbandar,235.25,139353,0.21
+8279,India,Gujarat,Porbandar,2005,Porbandar2005,133,Porbandar,257.09091,197270,0.21
+8280,India,Gujarat,Porbandar,2006,Porbandar2006,133,Porbandar,209.2,213954,0.21
+8281,India,Gujarat,Porbandar,2007,Porbandar2007,133,Porbandar,199.42857,239253,0.21
+8282,India,Gujarat,Porbandar,2008,Porbandar2008,133,Porbandar,228.28572,249480,0.21
+8284,India,Gujarat,Porbandar,2010,Porbandar2010,133,Porbandar,215.69231,315892,0.21
+8286,India,Gujarat,Porbandar,2012,Porbandar2012,133,Porbandar,237.42857,377257,0.21
+8369,India,Tamilnadu,Pudukkottai,2000,Pudukkottai2000,502,Pudukkottai,191.05263,165323,0.27
+8727,India,Gujarat,Rajkot,2016,Rajkot2016,124,Rajkot,190.88373,533602,0.29
+9762,India,Telangana,Siddipet,2006,Siddipet2006,524,Medak,206,102977,0.23
+10215,India,Delhi,South West,2003,South West2003,396,South West,474,85467,0.34
+10218,India,Delhi,South West,2006,South West2006,396,South West,239,117444,0.34
+10448,India,Telangana,Suryapet,2005,Suryapet2005,533,Nalgonda,175,92751,0.32
+10652,India,Tamilnadu,Thoothukkudi,2000,Thoothukkudi2000,513,Thoothukudi,214.08696,165323,0.2
+10653,India,Tamilnadu,Thoothukkudi,2001,Thoothukkudi2001,513,Thoothukudi,215.38461,162120,0.2
+10670,India,Tamilnadu,Thoothukkudi,2018,Thoothukkudi2018,513,Thoothukudi,185.28,614079,0.2
+10830,India,Rajasthan,Tonk,2007,Tonk2007,463,Tonk,192.25,140471,0.29
+11165,India,Madhya Pradesh,Vidisha,2000,Vidisha2000,295,Vidisha,212.53334,85664,0.26
+11260,India,Tamilnadu,Virudhunagar,2000,Virudhunagar2000,518,Virudhunagar,281.38461,165323,0.27
+11261,India,Tamilnadu,Virudhunagar,2001,Virudhunagar2001,518,Virudhunagar,180.5,162120,0.27
+11335,India,Telangana,Wanaparthy,2018,Wanaparthy2018,526,Mahbubnagar,201,268926,0.25
+11351,India,Telangana,Warangal Rural,2015,Warangal Rural2015,530,Warangal,376.5,205923,0.23
+11353,India,Telangana,Warangal Rural,2017,Warangal Rural2017,530,Warangal,238.39999,246058,0.23
+11567,India,Delhi,West,2003,West2003,395,West,287.5,85467,0.34
+11573,India,Delhi,West,2009,West2009,395,West,250.16667,159044,0.34
+11574,India,Delhi,West,2010,West2010,395,West,348.79999,172235,0.34
+11617,India,Telangana,Yadadri Bhuvanagiri,2004,Yadadri Bhuvanagiri2004,533,Nalgonda,196,79916,0.32
+11619,India,Telangana,Yadadri Bhuvanagiri,2006,Yadadri Bhuvanagiri2006,533,Nalgonda,481,102977,0.32
+11620,India,Telangana,Yadadri Bhuvanagiri,2007,Yadadri Bhuvanagiri2007,533,Nalgonda,457,113456,0.32
+11621,India,Telangana,Yadadri Bhuvanagiri,2008,Yadadri Bhuvanagiri2008,533,Nalgonda,448,128918,0.32
+11622,India,Telangana,Yadadri Bhuvanagiri,2009,Yadadri Bhuvanagiri2009,533,Nalgonda,368,129267,0.32
+11624,India,Telangana,Yadadri Bhuvanagiri,2011,Yadadri Bhuvanagiri2011,533,Nalgonda,272,160602,0.32
