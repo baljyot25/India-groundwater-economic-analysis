@@ -58,8 +58,8 @@ $$
 
 Results indicated a statistically significant but weak relationship, with a low R-squared value suggesting other factors influencing groundwater quality were not included in the model.
 
-![Initial Regression Results](images/initial_regression_results1.png)
 ![Initial Regression Results](images/initial_regression_results2.png)
+![Initial Regression Results](images/initial_regression_results1.png)
 
 
 ### Extended Model
