@@ -1,6 +1,6 @@
-$$
+$
 \text{GWQ}_{it} = \beta_0 + \beta_1 \text{SDP}_{it} + \epsilon_{it}
-$$
+$
 # Groundwater Pollution Econometric Analysis
 
 ## Project Overview
