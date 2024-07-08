@@ -3,6 +3,9 @@
 ## Project Overview
 This project aims to investigate the relationship between groundwater quality, specifically calcium concentration, and economic factors such as the State Domestic Product (SDP) and the Gini coefficient (a measure of income inequality). By using econometric techniques, we aim to understand how economic growth and income distribution impact groundwater pollution across various districts and states over time.
 
+## Presentation
+For a detailed overview of this project, please refer to the [project presentation](https://docs.google.com/presentation/d/1uhLWvioX_ZIaZJowFVLfwMpoPeLaRmSo/edit?usp=drive_link&ouid=112097443858963891006&rtpof=true&sd=true).
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Collection and Preprocessing](#data-collection-and-preprocessing)
