@@ -36,17 +36,17 @@ Groundwater pollution, particularly from calcium, is a significant environmental
 - The SDP of a state adequately represents the economic activity of its constituent districts.
 
 ## Model Specification
+
 The primary regression model used in this analysis is:
 
-$$
-\text{GWQ}_{it} = \beta_0 + \beta_1 \text{SDP}_{it} + \beta_2 \text{SDP}_{it}^2 + \beta_3 \text{SDP}_{it}^3 + \beta_4 \text{Gini}_{it} + \epsilon_{it}
-$$
+\[ \text{GWQ}_{it} = \beta_0 + \beta_1 \text{SDP}_{it} + \beta_2 \text{SDP}_{it}^2 + \beta_3 \text{SDP}_{it}^3 + \beta_4 \text{Gini}_{it} + \epsilon_{it} \]
 
 Where:
-- $\text{GWQ}_{it}$: Groundwater quality (calcium concentration) in district $i$ at time $t$.
-- $\text{SDP}_{it}$: State Domestic Product of district $i$ at time $t$.
-- $\text{Gini}_{it}$: Gini coefficient of district $i$ at time $t$.
-- $\epsilon_{it}$: Random error term.
+- \( \text{GWQ}_{it} \): Groundwater quality (calcium concentration) in district \( i \) at time \( t \).
+- \( \text{SDP}_{it} \): State Domestic Product of district \( i \) at time \( t \).
+- \( \text{Gini}_{it} \): Gini coefficient of district \( i \) at time \( t \).
+- \( \epsilon_{it} \): Random error term.
+
 
 ## Regression Analysis
 ### Initial Regression
