@@ -1,4 +1,4 @@
-$\text{GWQ}_{it} = \beta_0 + \beta_1 \text{SDP}_{it} + \epsilon_{it}$
+$GWQ_it = \beta_0 + \beta_1 \text{SDP}_{it} + \epsilon_{it}$
 $\sqrt{3x-1}+(1+x)^2$
 # Groundwater Pollution Econometric Analysis
 
